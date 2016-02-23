@@ -1,6 +1,6 @@
 name: Praha
 favicon: null
-layout_spectrum: 0.96543
+layout_spectrum: 0.15236
 typography_spectrum: 0.22712
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#F4F482'
   brandStrength: 0
   lightness: 0.1875
-  saturation: 0.625
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
