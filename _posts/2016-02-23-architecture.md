@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T18:49:55.240Z'
-dateModified: '2016-02-23T18:47:30.647Z'
+datePublished: '2016-02-23T18:52:24.338Z'
+dateModified: '2016-02-23T18:51:54.394Z'
 title: Architecture
 author: []
+sourcePath: _posts/2016-02-23-architecture.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-23-architecture.md
-published: true
 url: architecture/index.html
 _type: Article
 
