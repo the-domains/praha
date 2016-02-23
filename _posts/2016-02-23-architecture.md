@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T20:34:59.548Z'
-dateModified: '2016-02-23T20:30:31.106Z'
-title: ' '
+datePublished: '2016-02-23T20:40:33.777Z'
+dateModified: '2016-02-23T20:40:29.357Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-23-architecture.md
 published: true
@@ -34,7 +34,6 @@ _type: Article
 ## [Stairway][3]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4779832a-2aa8-4953-aa48-f264e72e2197.jpg)
 
-# 
 
 [0]: https://thegrid.ai/praha/arch1/
 [1]: https://thegrid.ai/praha/arch2/
