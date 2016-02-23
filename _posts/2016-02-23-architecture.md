@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T19:54:21.243Z'
-dateModified: '2016-02-23T19:54:15.923Z'
+datePublished: '2016-02-23T19:59:30.875Z'
+dateModified: '2016-02-23T19:57:46.482Z'
 title: Architecture
 author: []
 sourcePath: _posts/2016-02-23-architecture.md
@@ -22,7 +22,9 @@ url: architecture/index.html
 _type: Article
 
 ---
-## [Link 1][0]
+## [The Crown][0]
+
+## [The Lion][1]
 
 ## [Link 2 ][1]
 
@@ -32,7 +34,7 @@ _type: Article
 
 # Architecture
 
-[0]: https://thegrid.ai/praha/the crown/
+[0]: https://thegrid.ai/praha/arch1/
 [1]: https://thegrid.ai/praha/arch2/
 [2]: https://thegrid.ai/praha/arch3/
 [3]: https://thegrid.ai/praha/arch4/
