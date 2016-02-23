@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T18:55:37.962Z'
-dateModified: '2016-02-23T18:55:27.215Z'
+datePublished: '2016-02-23T19:39:25.066Z'
+dateModified: '2016-02-23T19:39:14.463Z'
 title: Architecture
 author: []
 sourcePath: _posts/2016-02-23-architecture.md
@@ -22,8 +22,17 @@ url: architecture/index.html
 _type: Article
 
 ---
-## Link 1     [Link 2][0] Link 3     Link 4
+## [Link 1][0]
+
+## [Link 2 ][1]
+
+## [Link 3][2]
+
+## [Link 4][3]
 
 # Architecture
 
 [0]: https://thegrid.ai/praha/arch1/
+[1]: https://thegrid.ai/praha/arch2/
+[2]: https://thegrid.ai/praha/arch3/
+[3]: https://thegrid.ai/praha/arch4/
