@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T19:59:30.875Z'
-dateModified: '2016-02-23T19:57:46.482Z'
+datePublished: '2016-02-23T19:59:55.735Z'
+dateModified: '2016-02-23T19:59:51.935Z'
 title: Architecture
 author: []
 sourcePath: _posts/2016-02-23-architecture.md
@@ -26,7 +26,7 @@ _type: Article
 
 ## [The Lion][1]
 
-## [Link 2 ][1]
+## [Link ][1]
 
 ## [Link 3][2]
 
