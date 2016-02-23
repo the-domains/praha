@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T20:59:54.357Z'
-dateModified: '2016-02-23T20:59:53.941Z'
+datePublished: '2016-02-23T21:09:32.957Z'
+dateModified: '2016-02-23T21:09:30.798Z'
 title: Architecture
 author: []
 sourcePath: _posts/2016-02-23-architecture.md
@@ -23,13 +23,13 @@ _type: Article
 
 ---
 ## [The Crown][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db1389f4-d31c-4bb6-8a4a-10a15bdd0643.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b435a4196dcff0dce93475ccb9b01ef1b4cd6901.jpg)
 
 ## [The Lion][1]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebaef2e9-7063-43f3-8f6f-d1ae1e331ebd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/94092029d5cb1c477ac938f44da7bcce67d5419d.jpg)
 
 ## [Frowns][2]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de96fd7d-5715-4ca6-b359-d7523b59f978.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7970f5e6d26af667eb2fd85e0475dc7b61d73310.jpg)
 
 ## [Stairway][3]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9b0ca07e97b827d78dcf6c3b63d5a634a2ebe4f.jpg)
