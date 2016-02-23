@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Praha]]></title>
+        <description><![CDATA[Praha]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 18:50:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Architecture]]></title>
+            <description><![CDATA[<article><h1>Architecture</h1><h2>Link 1     Link 2     Link 3     Link 4</h2></article>]]></description>
+            <link>undefinedarchitecture/index.html</link>
+            <guid isPermaLink="false">0bf62638-128d-4861-a134-be8b2bd09de0</guid>
+            <pubDate>Tue, 23 Feb 2016 18:49:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
