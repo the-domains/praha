@@ -4,7 +4,7 @@
         <description><![CDATA[Praha]]></description>
         <link>https://thegrid.ai/praha/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 18:52:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 18:52:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/praha/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Arch1]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>Architecture</h1><h2>Link 1     Link 2     Link 3     Link 4</h2></article>]]></description>
             <link>https://thegrid.ai/praha/architecture/index.html</link>
             <guid isPermaLink="false">0bf62638-128d-4861-a134-be8b2bd09de0</guid>
-            <pubDate>Tue, 23 Feb 2016 18:49:55 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2016 18:52:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
