@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T21:09:43.239Z'
-dateModified: '2016-02-23T21:09:39.495Z'
+datePublished: '2016-02-24T19:29:06.941Z'
+dateModified: '2016-02-24T19:28:57.784Z'
 title: Architecture
 author: []
 sourcePath: _posts/2016-02-23-architecture.md
