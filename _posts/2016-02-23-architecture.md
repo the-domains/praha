@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T22:24:19.355Z'
-dateModified: '2016-03-04T22:24:08.152Z'
+datePublished: '2016-03-04T22:31:25.841Z'
+dateModified: '2016-03-04T22:31:14.451Z'
 title: Architecture
 author: []
 sourcePath: _posts/2016-02-23-architecture.md
@@ -22,6 +22,6 @@ url: architecture/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a4468a6-9e9c-4973-8c78-5a861ec4325f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b323ca68c0c9e6985a5dd1978cefccbc182987d.jpg)
 
 ## Please use the navigation bar above to move between pages
