@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T22:19:06.875Z'
-dateModified: '2016-03-04T22:17:41.104Z'
+datePublished: '2016-03-04T22:21:04.893Z'
+dateModified: '2016-03-04T22:20:52.986Z'
 title: Architecture
 author: []
 sourcePath: _posts/2016-02-23-architecture.md
@@ -22,4 +22,4 @@ url: architecture/index.html
 _type: Article
 
 ---
-## PLease use the navigation bar above to move between pages
+## Please use the navigation bar above to move between pages
