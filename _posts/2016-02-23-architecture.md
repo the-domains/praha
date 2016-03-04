@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T20:04:36.758Z'
-dateModified: '2016-02-24T20:04:34.172Z'
+datePublished: '2016-03-04T22:12:42.052Z'
+dateModified: '2016-03-04T22:12:32.659Z'
 title: Architecture
 author: []
 sourcePath: _posts/2016-02-23-architecture.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: architecture/index.html
+_type: Article
 
 ---
 ## [The Crown][0]
